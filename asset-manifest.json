@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/proyectofinal/static/css/main.2dbb6875.css",
+    "main.js": "/proyectofinal/static/js/main.78e82a63.js",
+    "static/media/clima.jpg": "/proyectofinal/static/media/clima.9dbcd75e306cbdcff2e8.jpg",
+    "index.html": "/proyectofinal/index.html",
+    "main.2dbb6875.css.map": "/proyectofinal/static/css/main.2dbb6875.css.map",
+    "main.78e82a63.js.map": "/proyectofinal/static/js/main.78e82a63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2dbb6875.css",
+    "static/js/main.78e82a63.js"
+  ]
+}
